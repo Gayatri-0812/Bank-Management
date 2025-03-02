@@ -16,11 +16,6 @@
 ## About
 The Bank Management System is a software application designed to handle various banking activities such as account creation, deposit, withdrawal, money transfer, account balance inquiry, and transaction history. It provides a user-friendly interface to customers and bank employees to manage their banking operations efficiently.
 
-## Blog
-
-Check out our project blog post for more information on the development process and our thoughts on the Bank Management project:
-
-* [Bank Management System Using Python](https://www.codingninjas.com/codestudio/library/bank-management-system-project-in-python?utm_source=github&utm_medium=organic&utm_campaign=blog-bank-management-system-project-in-python)
 
 
 ## Features
