@@ -73,7 +73,7 @@ The code is organized into the following functions:
 
 <div align="center">
   
-## Made with ❤️ , Python, and Tkinter. Enjoy!
+
   
 </div>
 
